@@ -1,0 +1,19 @@
+# Segredos: NUNCA versionar
+.env
+.streamlit/secrets.toml
+
+# Dados baixados da NBA (não redistribuir; gere com os scripts) e dados pessoais do app
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Ambiente, IDE e lixo
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.rar
+*.zip

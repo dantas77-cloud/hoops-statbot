@@ -1,0 +1,6 @@
+streamlit
+plotly
+pandas
+groq
+nba_api
+python-dotenv
