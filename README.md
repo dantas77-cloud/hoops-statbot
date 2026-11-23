@@ -1,3 +1,4 @@
+
 # 🏀 Hoops StatBot
 [![tests](https://github.com/dantas77-cloud/hoops-statbot/actions/workflows/tests.yml/badge.svg)](https://github.com/dantas77-cloud/hoops-statbot/actions/workflows/tests.yml)
 
@@ -7,7 +8,10 @@ Chatbot de estatísticas e história da NBA que responde **fatos** com dados rea
 >
 > **Disclaimer (EN):** This is an educational, non-commercial project for portfolio purposes. It is not affiliated with, endorsed or sponsored by the National Basketball Association (NBA) or any team. NBA-related names, data, logos and player images are the property of the NBA and their respective owners. This repository contains source code only: no NBA data, logos or photos are included, and images are disabled by default.
 
-<!-- Demonstração: coloque aqui um GIF ou prints em docs/img/ (gravados com EXIBIR_IMAGENS_NBA=0, sem marcas de terceiros) -->
+<img width="1366" height="555" alt="Captura de tela 2026-11-23 191133" src="https://github.com/user-attachments/assets/a4cefb0b-662d-4c96-915b-6fca2b78a1f8" />
+<img width="1366" height="546" alt="Captura de tela 2026-11-23 190944" src="https://github.com/user-attachments/assets/f7455990-59ea-43cb-afa8-22d831d4a646" />
+<img width="1366" height="560" alt="Captura de tela 2026-11-23 191028" src="https://github.com/user-attachments/assets/c44634a6-4e07-4f2c-a214-7f1b6edb4038" />
+
 
 ## Funcionalidades
 - **Chat** com perguntas informais ("e o KD?", "quantos anéis o bron tem?"), memória da conversa e histórico salvo na lateral.
