@@ -1,4 +1,5 @@
 # 🏀 Hoops StatBot
+[![tests](https://github.com/dantas77-cloud/hoops-statbot/actions/workflows/tests.yml/badge.svg)](https://github.com/dantas77-cloud/hoops-statbot/actions/workflows/tests.yml)
 
 Chatbot de estatísticas e história da NBA que responde **fatos** com dados reais e **debates** (GOAT, melhor armador da história, caminho mais difícil até o título) com opinião fundamentada em números. Inspirado em ferramentas como o StatMuse.
 
